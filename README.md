@@ -5,7 +5,7 @@ Marketing Campaign Analytics Dashboard - Power BI Project
 This repository contains the files and documentation for a comprehensive marketing analytics dashboard built with Microsoft Power BI. This project was developed as my first end-to-end freelance engagement to provide a client with actionable insights into their marketing campaign performance.
 
 ► Live Demo
-(I highly recommend you record a short screen-capture video of you clicking through the dashboard and save it as a GIF. You can use a free tool like ScreenToGIF. This makes your repository much more engaging.)
+
 
 ► Project Objective
 The primary objective of this dashboard is to assess the effectiveness of various marketing campaigns to enhance future marketing strategies and optimize budget allocation. The dashboard answers critical business questions related to campaign performance, channel efficiency, customer demographics, and profitability.

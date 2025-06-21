@@ -4,14 +4,13 @@ First freelance project
 Marketing Campaign Analytics Dashboard - Power BI Project
 This repository contains the files and documentation for a comprehensive marketing analytics dashboard built with Microsoft Power BI. This project was developed as my first end-to-end freelance engagement to provide a client with actionable insights into their marketing campaign performance.
 
-► Live Demo
-
-
-► Project Objective
-The primary objective of this dashboard is to assess the effectiveness of various marketing campaigns to enhance future marketing strategies and optimize budget allocation. The dashboard answers critical business questions related to campaign performance, channel efficiency, customer demographics, and profitability.
-
 ► Dashboard Structure
 The report is structured across three key pages for a logical and intuitive user experience:
+![Screenshot 2025-06-16 154408](https://github.com/user-attachments/assets/b3b3cc6e-dc8c-418f-b2a1-d943716fb00f)
+
+![Screenshot 2025-06-16 154418](https://github.com/user-attachments/assets/fe6cf94b-c8e0-47ed-97fa-8287c3f1a8cd)
+
+![Screenshot 2025-06-16 154428](https://github.com/user-attachments/assets/1be2a477-4ecc-40fb-a504-74ede4a0203f)
 
 Overview Page: Provides a high-level, at-a-glance summary of the overall marketing performance. It features main KPIs and trend lines for key metrics like Impressions, Clicks, Spend, and Conversions over time.
 
